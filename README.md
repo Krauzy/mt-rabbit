@@ -25,7 +25,6 @@
 
 ## 🚀 Installing
 
-Windows:
 ```sh
 docker-compose up
 ```
